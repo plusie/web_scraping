@@ -13,5 +13,8 @@ To create a twitter app: https://apps.twitter.com/
 To use POSTMAN on chrome like an extension: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=pt-BR
 OR you can use POSTMAN as a software by downloading it: https://www.getpostman.com/postman 
 
-![Postman_Steps.png]
-![Postman_Results.png]
+
+![Postman Steps](Postman_Steps.png)
+
+
+![Postman Results](Postman_Results.png)
